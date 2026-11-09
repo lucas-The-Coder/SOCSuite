@@ -1,0 +1,8 @@
+Nov 8 19:10:01 nobara-pc sshd[1234]: Failed password for root from 192.168.1.50 port 22
+Nov 8 19:10:05 nobara-pc sshd[1235]: Failed password for root from 192.168.1.50 port 22
+Nov 8 19:10:09 nobara-pc sshd[1236]: Failed password for root from 192.168.1.50 port 22
+Nov 8 19:10:12 nobara-pc sshd[1237]: Failed password for root from 192.168.1.50 port 22
+Nov 8 19:10:15 nobara-pc sshd[1238]: Failed password for root from 192.168.1.50 port 22
+Nov 8 19:10:18 nobara-pc sshd[1239]: Failed password for root from 192.168.1.50 port 22
+Nov 8 19:11:01 nobara-pc sshd[1240]: Accepted password for luked from 192.168.1.10 port 22
+Nov 8 19:11:05 nobara-pc sshd[1241]: Failed password for luked from 10.0.0.5 port 22
